@@ -1,0 +1,50 @@
+[
+  {
+   "name": "Kevin",
+   "gender": "Male",
+   "age": 25,
+   "status": false
+  },
+  {
+    "name": "Kevin W",
+    "gender": "Male",
+    "age":24,
+    "status": false
+  },
+  {
+    "name":"David L",
+    "gender":"Male",
+    "age":30,
+    "status": true
+  },
+  {
+    "name": "Karen",
+    "gender": "Female",
+    "age":22,
+    "status": false
+  },
+  {
+    "name": "George",
+    "gender": "Male",
+    "age": 25,
+    "status": false
+  },
+  {
+    "name": "Bob",
+    "gender": "Male",
+    "age":24,
+    "status": false
+  },
+  {
+    "name": "Jack",
+    "gender": "Female",
+    "age":23,
+    "status": false
+  },
+  {
+    "name": "Kimberly",
+    "gender": "Female",
+    "age":33,
+    "status": true
+  }
+]
