@@ -22,22 +22,22 @@ let Case = new Schema({
 name: {
 type: String,
 required: true,
-},
+},</br>
 gender: {
 type: String,
 required: true,
-},
+},</br>
 age: {
 type: Number,
 required: true,
-},
+},</br>
 status: {
 type: Boolean,
 required: true,
 }
-},
+},</br>
 { timestamps: true }
-);
+);</br>
 
 ### <h3 align="left">Languages and Tools:</h3>
 
